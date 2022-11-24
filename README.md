@@ -35,8 +35,6 @@
     + <https://sibta.in/writings/absolute-paths-svelte>
     + <https://sibta.in/writings/lazy-load-svelte>
     + <https://rajasegar.github.io/svelte2vs3/> — Svelte 2 vs 3: Cheat Sheet
-* My Projects
-    + <https://github.com/piecioshka/svelte-carousel>
 
 ## Goals
 
