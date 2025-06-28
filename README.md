@@ -7,7 +7,7 @@
 
 # awesome-svelte
 
-> ⚡ List of awesome Svelte resources
+⚡ List of awesome Svelte resources
 
 ## Contents
 
@@ -43,7 +43,7 @@
 * Animations
 * Transitions
 
-## How it works?
+## How it works? 🚀
 
 * Svelte is a ...compiler!
     + <https://svelte.dev/examples#hello-world>
